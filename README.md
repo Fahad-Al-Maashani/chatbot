@@ -16,6 +16,8 @@ cd chatbot
 
 # Install dependencies
 pip install pyttsx3 SpeechRecognition
+#installation for open ai API, google search and others needs preconfigured dependencies
+pip install requests pyttsx3
 
 # Run the chatbot application
 python chat.py
