@@ -11,7 +11,7 @@
 ## 🚀 How to Get Started
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/Fahad-Al-Maashani/chatbot.git
 cd chatbot
 
 # Install dependencies
